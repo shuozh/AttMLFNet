@@ -13,4 +13,3 @@ Attention-based Multi-Level Fusion Network for Light Field Depth Estimation,
 The 35th AAAI Conference on Artificial Intelligence (AAAI), 2021
 
 
-# COMING SOON!!!
